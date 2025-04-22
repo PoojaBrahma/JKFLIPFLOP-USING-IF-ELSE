@@ -34,15 +34,33 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+step-1 Go to quartus software.
+
+step-2 Set new environment.
+
+step-3 Type the code to implement SR flipflop using verilog and validating their functionality using their functional tables.
+
+step-4 Run the program.
+
+step-5 Give inputs in the waveform table .
+
+step-6 Run the program.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+![Screenshot 2025-04-22 104916](https://github.com/user-attachments/assets/97ce5a73-c40b-48bb-ab53-74b5ed147d27)
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![Screenshot 2025-04-22 105003](https://github.com/user-attachments/assets/a16fd2b8-188b-438a-a83f-74720e3dd425)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![Screenshot 2025-04-22 105607](https://github.com/user-attachments/assets/df68f325-3eb4-4802-8806-b020005667f4)
+
+
 **RESULTS**
+
+Thus,the code executed successfully.
